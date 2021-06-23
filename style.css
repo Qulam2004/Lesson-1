@@ -1,0 +1,81 @@
+.header{
+    background-color: green;
+    height: auto;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+    
+}
+.header-box h1{
+    color:#e6e7ff;
+    font-size: 3rem;
+    margin-left: 11rem;
+    margin-top: -4rem; 
+}
+
+.fas.fa-memory{
+    color: white;
+    font-size: 85px;
+    padding-top: 0rem;
+    margin-bottom: -7rem;
+    margin-left: 3rem;
+  
+}
+
+.header-box h4{
+    color:#e6e7ff;
+    font-size: 20px;
+    display: inline;
+}
+
+.header-box button{
+    margin-left: 3rem;
+    padding: 10px;
+    font-size: 15px;
+    border-color:#ffabab;
+    background-color:yellow;
+    color: blue;
+    outline: solid black 3px;
+
+}
+.header-box button:hover{
+    background-color:black;
+    color: yellow;
+    outline: solid black 3px;
+}
+.main1 h2{
+    font-size: 2rem;
+
+}
+
+.flexible{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: solid 10px green;
+    border-top: solid 10px green ;
+    margin-top: 10px;
+}
+
+.flexible img,h3,p{
+    outline: solid black 1px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.body{
+    background-image: url(images/images\ \(2\).jfif);
+}
